@@ -1,0 +1,12 @@
+# Theme config.
+# Static site search feature
+[searchs]
+    status = false     # true, false
+    engine = "self"    # algolia, fuse              # search engine
+    render = "self"    # page title                 # page render
+    [algolia]
+        unique = "algolia_id"                       # algolia unique id
+        secret = "algolia_secret"                   # algolia secret key
+    [layouts]
+        bars   = "default"
+        page   = "default"
