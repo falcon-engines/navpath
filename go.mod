@@ -1,3 +1,3 @@
-module github.com/rozard-falcon/quaero
+module github.com/rozard-engines/quaeros
 
 go 1.21.4
