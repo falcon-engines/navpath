@@ -1,0 +1,9 @@
+[quaeros]
+    [quaeros.assets]
+        [quaeros.assets.styles]
+            head = [ "base" ]
+            foot = [ "base" ]
+        [quaeros.assets.script]
+            head = [ "main" ]
+            foot = [ "main" ]
+
